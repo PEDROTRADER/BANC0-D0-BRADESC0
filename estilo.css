@@ -1,0 +1,18 @@
+
+.corpo			{font-family:Arial; font-size:12px; color:#000000;}
+.titCorpo		{font-family:Arial; font-size:14px; color:#000000;}
+
+.titResumo		{font-family:Arial; font-size:14px; color:#909090; font-weight:bold;}
+.titResumop		{font-family:Arial; font-size:16px; color:#000000; font-weight:bold;}
+.corpoResumoTitulo	{font-family:Arial; font-size:11px; color:#909090;}
+.corpoConteudo		{font-family:courier new; font-size: 10px; color:#909090; font-weight:normal;}
+.subTitResumo		{font-family:Arial; font-size:12px; color:#909090;}
+
+.bgResumo		{border-top:2px solid #DCE7DC; border-right:2px solid #DCE7DC; border-bottom:2px solid #DCE7DC; border-left:2px solid #DCE7DC; background-color:#F3F3F3;}
+.bgResumo2		{border-top:2px solid #DCE7DC; border-right:2px solid #DCE7DC; border-bottom:2px solid #DCE7DC; border-left:2px solid #DCE7DC;}
+.box			{border-top:1px solid #666666; border-right:1px solid #B2B2B2; border-bottom:1px solid #B2B2B2; border-left:1px solid #666666;}
+
+a:visited {font-family: verdana; font-size: 9px;color:#5d5d5d}
+a:hover {font-family: verdana; font-size: 9px;color:#ff6600;text-decoration:underline}
+a:active {font-family: verdana; font-size: 9px;color:#5d5d5d}
+a {font-family: verdana; font-size: 9px;color:#5d5d5d;text-decoration:none;}		
